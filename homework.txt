@@ -1,0 +1,8 @@
+Hudson, please add the following capabilities:
+1) Please add a menu that allows the user to see the board and shoose the direction he wants the turtle to move in
+2) when the user moves the turtle, please print the updated board
+3) If the user reaches the apple, give the user a success message
+4) hide mines on the board
+5) if the user lands on a mine - blow them up!!!!
+6) save the mines into a dictionary
+7) Add proper documentation & input validation
