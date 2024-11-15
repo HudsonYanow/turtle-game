@@ -1,0 +1,1 @@
+A Python-based game where a turtle navigates a board to reach an apple. Players input directions to guide the turtle, testing their logic and planning skills. Simple, fun, and interactive gameplay for all ages!
